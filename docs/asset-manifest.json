@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.c52fec94.chunk.css",
+    "main.css": "/static/css/main.56133ecd.chunk.css",
     "main.js": "/static/js/main.3bbfcd8c.chunk.js",
     "main.js.map": "/static/js/main.3bbfcd8c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.301cf4ba.js",
@@ -12,7 +12,7 @@
     "static/js/3.90b0f697.chunk.js.map": "/static/js/3.90b0f697.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.9c6fb722.chunk.css.map": "/static/css/2.9c6fb722.chunk.css.map",
-    "static/css/main.c52fec94.chunk.css.map": "/static/css/main.c52fec94.chunk.css.map",
+    "static/css/main.56133ecd.chunk.css.map": "/static/css/main.56133ecd.chunk.css.map",
     "static/js/2.a6e52457.chunk.js.LICENSE.txt": "/static/js/2.a6e52457.chunk.js.LICENSE.txt",
     "static/media/App.css": "/static/media/pinkclouds.3e5b0554.jpg",
     "static/media/bootstrap copy.6eff491a.png": "/static/media/bootstrap copy.6eff491a.png",
@@ -37,7 +37,7 @@
     "static/js/runtime-main.301cf4ba.js",
     "static/css/2.9c6fb722.chunk.css",
     "static/js/2.a6e52457.chunk.js",
-    "static/css/main.c52fec94.chunk.css",
+    "static/css/main.56133ecd.chunk.css",
     "static/js/main.3bbfcd8c.chunk.js"
   ]
 }

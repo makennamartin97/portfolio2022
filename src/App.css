@@ -816,7 +816,12 @@ img{
     
     opacity: .9;
     
-    background-position: center;
+    /* background-position: center; */
+    image-rendering: crisp-edges;
+    image-rendering: -moz-crisp-edges;          /* Firefox */
+    image-rendering: -o-crisp-edges;            /* Opera */
+    image-rendering: -webkit-optimize-contrast; /* Webkit (non-standard naming)*/
+    -ms-interpolation-mode: nearest-neighbor;   /* IE (non-standard property) */
   }
 
   .picgroup{
@@ -855,8 +860,6 @@ img{
   }
   .nav {
     display: flex;
-    
-    
     align-items: center;
     padding: 0px 0px;
     height: 80px;
