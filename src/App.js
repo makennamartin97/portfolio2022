@@ -21,7 +21,7 @@ function App() {
       {isLoading===true?
         <Loading/>:
         <Router>
-          <Main path="/portfolio2022/"/>
+          <Main path="/"/>
 
 
         </Router>
