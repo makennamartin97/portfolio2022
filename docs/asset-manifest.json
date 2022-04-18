@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.66e3b756.chunk.css",
+    "main.js": "/static/js/main.bb7a3b9c.chunk.js",
+    "main.js.map": "/static/js/main.bb7a3b9c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.301cf4ba.js",
+    "runtime-main.js.map": "/static/js/runtime-main.301cf4ba.js.map",
+    "static/css/2.9c6fb722.chunk.css": "/static/css/2.9c6fb722.chunk.css",
+    "static/js/2.a6e52457.chunk.js": "/static/js/2.a6e52457.chunk.js",
+    "static/js/2.a6e52457.chunk.js.map": "/static/js/2.a6e52457.chunk.js.map",
+    "static/js/3.90b0f697.chunk.js": "/static/js/3.90b0f697.chunk.js",
+    "static/js/3.90b0f697.chunk.js.map": "/static/js/3.90b0f697.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.9c6fb722.chunk.css.map": "/static/css/2.9c6fb722.chunk.css.map",
+    "static/css/main.66e3b756.chunk.css.map": "/static/css/main.66e3b756.chunk.css.map",
+    "static/js/2.a6e52457.chunk.js.LICENSE.txt": "/static/js/2.a6e52457.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/miami2.253d2182.jpg",
+    "static/media/bootstrap copy.6eff491a.png": "/static/media/bootstrap copy.6eff491a.png",
+    "static/media/crud.63fa39b4.gif": "/static/media/crud.63fa39b4.gif",
+    "static/media/cs.83dfa097.png": "/static/media/cs.83dfa097.png",
+    "static/media/csharp.acf4b644.png": "/static/media/csharp.acf4b644.png",
+    "static/media/css3 copy.0a175b53.png": "/static/media/css3 copy.0a175b53.png",
+    "static/media/django2 copy.a6eb1432.png": "/static/media/django2 copy.a6eb1432.png",
+    "static/media/expressjs copy.d6e21c98.png": "/static/media/expressjs copy.d6e21c98.png",
+    "static/media/finallogo2.20d5d7e6.png": "/static/media/finallogo2.20d5d7e6.png",
+    "static/media/html2 copy.a55d95bf.png": "/static/media/html2 copy.a55d95bf.png",
+    "static/media/js copy.db7cd700.png": "/static/media/js copy.db7cd700.png",
+    "static/media/kirby.f031f834.gif": "/static/media/kirby.f031f834.gif",
+    "static/media/minime.8244a757.jpg": "/static/media/minime.8244a757.jpg",
+    "static/media/mongodb copy.5fc49d78.png": "/static/media/mongodb copy.5fc49d78.png",
+    "static/media/mysql copy.a94adcf1.png": "/static/media/mysql copy.a94adcf1.png",
+    "static/media/nodejs copy.8674298c.png": "/static/media/nodejs copy.8674298c.png",
+    "static/media/weatherapi2.84d4d0b7.gif": "/static/media/weatherapi2.84d4d0b7.gif",
+    "static/media/weddingplanner2.ad94f821.gif": "/static/media/weddingplanner2.ad94f821.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.301cf4ba.js",
+    "static/css/2.9c6fb722.chunk.css",
+    "static/js/2.a6e52457.chunk.js",
+    "static/css/main.66e3b756.chunk.css",
+    "static/js/main.bb7a3b9c.chunk.js"
+  ]
+}
